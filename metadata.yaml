@@ -1,5 +1,5 @@
 _repo: Vahram-s-chronicle-of-the-Armenian-kingdom-in-Cilicia-during-the-time-of-the-Crusades_60171
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Neumann, Karl Friedrich
@@ -12,12 +12,17 @@ contributor:
     wikipedia:
     - https://de.wikipedia.org/wiki/Karl_Friedrich_Neumann
     - https://en.wikipedia.org/wiki/Karl_Friedrich_Neumann
+covers:
+- cover_type: archival
+  image_path: 60171-h/images/cover.jpg
 creator:
   author:
     agent_name: Vahram
     gutenberg_agent_id: '50827'
     url: http://www.gutenberg.org/2009/agents/50827
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60171#Vahram-s-chronicle-of-the-Armenian-kingdom-in-Cilicia-during-the-time-of-the-Crusades
 gutenberg_issued: '2019-08-25'
 gutenberg_type: Text
 identifiers:
